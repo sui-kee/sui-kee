@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sui-kee
-- 👀 I’m interested in android and web development
+- 👀 I’m interested in web and game development
 - 🌱 I’m currently working as freelance developer
 - 💞️ I’m open for frontend developer contracted job
 - 😄 Pronouns: he/him/male
